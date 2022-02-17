@@ -1,0 +1,8 @@
+start
+input first number
+input second number
+set x to first number times first number
+set y to second number times second number
+set sum to x + y
+print sum
+end
