@@ -1,0 +1,8 @@
+start
+set sum to 0
+input number as n
+check if n >= 0
+    set sum equal to sum plus n
+    go back to step3
+print sum
+end
